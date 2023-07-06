@@ -9,6 +9,8 @@
 ![kotlin](https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![Javascript](https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![HTML](https://shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## :open_file_folder: PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
