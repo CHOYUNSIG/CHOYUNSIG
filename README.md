@@ -7,6 +7,7 @@
 
 ![Android](https://shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white)
 ![kotlin](https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+
 ![Javascript](https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ## :open_file_folder: PS
