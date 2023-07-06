@@ -1,5 +1,10 @@
 ### :open_file_folder: 개발 가능 언어
-![Python](https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![Java](https://shields.io/badge/Java-ED8000.svg?&style=for-the-badge&logo=java&logoColor=white) ![Python](https://shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Java](https://shields.io/badge/Java-ED8000.svg?&style=for-the-badge&logo=java&logoColor=white)
+![kotlin](https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Javascript](https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 ### :open_file_folder: 외부 링크
