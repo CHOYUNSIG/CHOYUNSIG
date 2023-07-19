@@ -13,5 +13,5 @@
 ![CSS](https://shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## :open_file_folder: PS
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
 
