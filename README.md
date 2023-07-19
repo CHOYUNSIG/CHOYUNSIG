@@ -13,6 +13,6 @@
 ![CSS](https://shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## :open_file_folder: PS
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={asdfghjkl46}&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle={asdfghjkl46}&theme=dark)](https://solved.ac/asdfghjkl46/)
 
