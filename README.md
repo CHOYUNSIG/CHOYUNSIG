@@ -1,3 +1,4 @@
+<div align=center>
 ## :open_file_folder: Stack
 ![Python](https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![kotlin](https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -14,4 +15,4 @@
 
 ## :open_file_folder: PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
-
+</div>
