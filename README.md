@@ -9,6 +9,5 @@
 
 ## :open_file_folder: PS
 <div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=asdfghjkl46)](https://solved.ac/asdfghjkl46/)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdfghjkl46)
 </div>
