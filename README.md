@@ -1,6 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=CHOYUNSIG&fontSize=105&fontAlign=40&fontAlignY=70&fontColor=FFFFFF&color=0:F798BB,100:C8B2F7">
-</div>
+</div><br>
 <h2>📂Stack</h2>
 <div>
   <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
