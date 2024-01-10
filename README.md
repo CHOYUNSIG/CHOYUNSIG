@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=CHOYUNSIG&desc=TM&descSize=20&descAlign=78&descAlignY=15&fontSize=105&fontAlign=40&fontAlignY=50&fontColor=FFFFFF&color=0:F798BB,100:C8B2F7">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=CHOYUNSIG&desc=TM&descSize=20&descAlign=78&descAlignY=25&fontSize=105&fontAlign=40&fontAlignY=50&fontColor=FFFFFF&color=0:F798BB,100:C8B2F7">
 </div><br>
 <h2>📂Stack</h2>
 <div>
