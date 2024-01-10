@@ -3,10 +3,14 @@
 </div><br>
 <h2>📂Stack</h2>
 <div style="column-count: 2">
-  <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"><br>
-  <img src="https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"><br>
-  <img src="https://shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"><br>
-  <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"><br>
+  <p>
+    <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"><br>
+    <img src="https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"><br>
+  </p>
+  <p>
+    <img src="https://shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"><br>
+    <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"><br>
+  </p>
 </div><br>
 <h2>📂PS</h2>
 <div align=center>
