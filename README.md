@@ -11,7 +11,7 @@
   <img src="https://shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </div>
-<h2>📂Algorithm</h2>
+<h2>📂PS</h2>
 <div align=center>
   <a href="https://career.programmers.co.kr/job_profiles/public_setting">
     <img src="https://d1nuzc1w51n1es.cloudfront.net/13f2470e1806c9f6e84c.png">
