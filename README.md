@@ -14,7 +14,12 @@
 </div>
 <h2>📂PS</h2>
 <div align=center>
+  <h3><img src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" width="30%"></h3>
   <a href="https://solved.ac/profile/asdfghjkl46">
     <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdfghjkl46">
+  </a>
+  <h3>Programmers</h3>
+  <a href="https://career.programmers.co.kr/job_profiles/public_setting">
+    <img src="https://d1nuzc1w51n1es.cloudfront.net/13f2470e1806c9f6e84c.png">
   </a>
 </div>
