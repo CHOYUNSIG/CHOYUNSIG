@@ -13,11 +13,11 @@
 </div>
 <h2>📂PS</h2>
 <div align=center>
-  <a href="https://solved.ac/profile/asdfghjkl46">
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdfghjkl46" width="50%">
+  <a href="https://career.programmers.co.kr/job_profiles/public_setting">
+    <img src="https://d1nuzc1w51n1es.cloudfront.net/13f2470e1806c9f6e84c.png">
   </a>
   <br>
-  <a href="https://career.programmers.co.kr/job_profiles/public_setting">
-    <img src="https://d1nuzc1w51n1es.cloudfront.net/13f2470e1806c9f6e84c.png" width="15%">
+  <a href="https://solved.ac/profile/asdfghjkl46">
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=asdfghjkl46">
   </a>
 </div>
