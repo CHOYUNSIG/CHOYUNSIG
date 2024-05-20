@@ -14,7 +14,7 @@
 <h2>📂PS</h2>
 <div align=center>
   <a href="https://solved.ac/profile/asdfghjkl46">
-    <img src="https://shields.io/badge/Beakjoon_Online_Judge-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white">
+    <img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white">
   </a><br>
   <a href="https://career.programmers.co.kr/job_profiles/public_setting">
     <img src="https://shields.io/badge/Programmers-Skill_Check_LV3-C067FF.svg?&style=for-the-badge&logoColor=white">
