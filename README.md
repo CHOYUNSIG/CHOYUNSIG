@@ -19,4 +19,5 @@
   <a href="https://career.programmers.co.kr/job_profiles/public_setting">
     <img src="https://shields.io/badge/Programmers-Skill_Check_LV3-C067FF.svg?&style=for-the-badge&logoColor=white">
   </a><br>
+  <img src="https://shields.io/badge/2024_SCON_Silver_Award-AAAACC.svg?&style=for-the-badge&logoColor=white"><br>
 </div>
