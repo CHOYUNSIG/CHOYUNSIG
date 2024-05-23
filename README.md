@@ -11,7 +11,7 @@
   <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </div>
-<h2>📂PS</h2>
+<h2>📂Problem Solving</h2>
 <div align=center>
   <a href="https://solved.ac/profile/asdfghjkl46">
     <img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white">
