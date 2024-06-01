@@ -7,10 +7,10 @@
   <img src="https://shields.io/badge/Android_Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://shields.io/badge/Jetpack_Compose-4285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 </div>
 <h2>📂Problem Solving</h2>
 <div align=center>
