@@ -14,6 +14,9 @@
 </div>
 <h2>📂Problem Solving</h2>
 <div align=center>
+  <a href="https://choyunsig.github.io/algorithm_with_boj/">
+    <img src="https://shields.io/badge/Blog-CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white">
+  </a><br>
   <a href="https://solved.ac/profile/asdfghjkl46">
     <img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white">
   </a><br>
