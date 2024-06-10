@@ -12,7 +12,7 @@
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
   <img src="https://shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 </div>
-<h2>📂Problem Solving</h2>
+<h2>📂Algorithm</h2>
 <div align=center>
   <a href="https://choyunsig.github.io/algorithm_with_boj/">
     <img src="https://shields.io/badge/Blog-CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white">
