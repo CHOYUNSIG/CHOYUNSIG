@@ -13,6 +13,9 @@
   <img src="https://shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 </div>
 <h2>📂Algorithm</h2>
+<blockquote>
+  Click to go to detail.
+</blockquote>
 <div align=center>
   <a href="https://choyunsig.github.io/algorithm_with_boj/"><img src="https://shields.io/badge/Blog-CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white"></a>
   <a href="https://solved.ac/profile/asdfghjkl46"><img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white"></a>
