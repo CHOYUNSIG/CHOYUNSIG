@@ -10,14 +10,13 @@
   <img src="https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white">
 </div>
 <h2>📂Algorithm</h2>
 <blockquote>
   Click to go to detail.
 </blockquote>
 <div align=center>
-  <a href="https://choyunsig.github.io/algorithm_with_boj/"><img src="https://shields.io/badge/Blog-CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white"></a>
+  <a href="https://choyunsig.github.io/algorithm_with_boj/"><img src="https://shields.io/badge/Blog-CC2222.svg?&style=for-the-badge&logo=jekyll&logoColor=white"></a>
   <a href="https://solved.ac/profile/asdfghjkl46"><img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://career.programmers.co.kr/job_profiles/public_setting"><img src="https://shields.io/badge/Programmers-Skill_Check_LV3-C067FF.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/ssu-sccc/2024scon"><img src="https://shields.io/badge/2024_SCON_Silver_Award-AAAACC.svg?&style=for-the-badge&logoColor=white"></a>
