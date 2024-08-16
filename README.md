@@ -4,7 +4,7 @@
 <h2>📂 Experience</h2>
 <div align=center>
   <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://shields.io/badge/Android_Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white">
+  <img src="https://shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white">
   <img src="https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://shields.io/badge/Jetpack_Compose-4285F4.svg?&style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <img src="https://shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white">
