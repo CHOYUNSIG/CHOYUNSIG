@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=CHOYUNSIG&desc=TM&descSize=20&descAlign=78&descAlignY=25&fontSize=105&fontAlign=40&fontAlignY=50&fontColor=FFFFFF&color=0:F798BB,100:C8B2F7">
 </div>
-<h2>📂 Experience</h2>
+<h2>📂 Stack</h2>
 <div align=center>
   <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white">
