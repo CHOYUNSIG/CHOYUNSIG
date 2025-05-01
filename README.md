@@ -12,7 +12,6 @@
   <img src="https://shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://shields.io/badge/Supabase-3FCF8E.svg?&style=for-the-badge&logo=supabase&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </div>
 <h2>📂 Algorithm</h2>
