@@ -23,4 +23,5 @@
   <a href="https://solved.ac/profile/asdfghjkl46"><img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://career.programmers.co.kr/pr/choyunsig"><img src="https://shields.io/badge/Programmers-Skill_Check_LV4-FF9500.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/ssu-sccc/2024scon"><img src="https://shields.io/badge/2024_SCON-Silver_Award-AAAACC.svg?&style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/ssu-sccc/2025scon"><img src="https://shields.io/badge/2025_SCON-Silver_Award-AAAACC.svg?&style=for-the-badge&logoColor=white"></a>
 </div>
