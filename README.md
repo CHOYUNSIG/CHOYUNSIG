@@ -10,6 +10,7 @@
   <img src="https://shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
   <img src="https://shields.io/badge/Nextjs-000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </div>
