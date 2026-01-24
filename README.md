@@ -30,7 +30,7 @@
   Click to go to detail.
 </blockquote>
 <div align=center>
-  <a href="https://github.com/Ttatta-org/Ttatta_Android"><img src="https://shields.io/badge/UMC_7th_Demo_Day-최우수상-FFBF00.svg?&style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/Ttatta-org/Ttatta_Android"><img src="https://shields.io/badge/UMC_7th_Demo_Day-최우수상-9AAC21.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://scatch.ssu.ac.kr/%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0/%EC%A0%84%EC%B2%B4/page/2/?type=major-news&slug=%EB%B3%B8%EA%B5%90-%ED%95%99%EC%83%9D%EB%93%A4-2024-%EC%B0%BD%EC%9D%98%EC%A0%81-%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%EC%97%90%EC%84%9C-%EC%82%B0&f&keyword"><img src="https://shields.io/badge/2024_공학페스티벌-장관상-80ABFF.svg?style=for-the-badge&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/15v47NPV58URLZdPnzHpxFOn3NQfYtsZK/view?usp=sharing"><img src="https://shields.io/badge/숭실대학교_최고학점상-4.46/4.5-CC6A6A.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/CHOYUNSIG/babbogi"><img src="https://shields.io/badge/숭실대학교_소프트웨어공모전-은상-AAAACC.svg?&style=for-the-badge&logoColor=white"></a>
