@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=CHOYUNSIG&desc=TM&descSize=20&descAlign=78&descAlignY=25&fontSize=105&fontAlign=40&fontAlignY=50&fontColor=FFFFFF&color=0:F798BB,100:C8B2F7">
 </div>
-<h2>Here's my tech stack.</h2>
+<h2>즐겨 찾는 기술입니다.</h2>
 <div align=center>
   <img src="https://shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white">
   <img src="https://shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white">
@@ -15,16 +15,16 @@
   <img src="https://shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </div>
-<h2>I'm interested in algorithm problem solving.</h2>
-<blockquote>Here's my web-links about it. Click to go to detail.</blockquote>
+<h2>알고리즘에 관심이 많습니다.</h2>
+<blockquote>아래는 저의 알고리즘 관련 활동 기록입니다. 클릭하면 관련 링크로 이동합니다.</blockquote>
 <div align=center>
   <a href="https://algorithm-with-bojtag.vercel.app/"><img src="https://shields.io/badge/Blog-TagTree-ff7b72.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://solved.ac/profile/asdfghjkl46"><img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/ssu-sccc/2024scon"><img src="https://shields.io/badge/2024_SCON-Silver_Award-AAAACC.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/ssu-sccc/2025scon"><img src="https://shields.io/badge/2025_SCON-Silver_Award-AAAACC.svg?&style=for-the-badge&logoColor=white"></a>
 </div>
-<h2>That's my awards.</h2>
-<blockquote>I'm working hard. Click to go to detail.</blockquote>
+<h2>수상 내역입니다.</h2>
+<blockquote>궁금한 것을 클릭해보세요.</blockquote>
 <div align=center>
   <a href="https://drive.google.com/file/d/1-GOm0-a-3_S215djkq-nN6Hi8RQLPsiN/view?usp=sharing"><img src="https://shields.io/badge/숭실대학교-수석졸업-CC6A6A.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://github.com/WHERE2GOES/App"><img src="https://shields.io/badge/IT_Project_공모전-장려상-5D8086.svg?&style=for-the-badge&logoColor=white"></a>
