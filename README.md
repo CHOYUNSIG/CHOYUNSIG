@@ -16,7 +16,7 @@
   <img src="https://shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 </div>
 <h2>알고리즘에 관심이 많습니다.</h2>
-<blockquote>아래는 저의 알고리즘 관련 활동 기록입니다. 클릭하면 관련 링크로 이동합니다.</blockquote>
+<blockquote>아래는 저의 알고리즘 관련 활동 기록입니다. 클릭하면 이동합니다.</blockquote>
 <div align=center>
   <a href="https://algorithm-with-bojtag.vercel.app/"><img src="https://shields.io/badge/Blog-TagTree-ff7b72.svg?&style=for-the-badge&logoColor=white"></a>
   <a href="https://solved.ac/profile/asdfghjkl46"><img src="https://shields.io/badge/Solved.ac-Diamond_5-00b4fc.svg?&style=for-the-badge&logoColor=white"></a>
